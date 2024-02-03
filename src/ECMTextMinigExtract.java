@@ -11,7 +11,7 @@ public class ECMTextMinigExtract {
 
 		try {
 			try {
-				System.out.println(new ApachePoiTextRead("/ES/tmp_ECM_0900bf4ba1624820_0900bf4ba1624820_1634712568326.pdf").CommonTextMain());
+				System.out.println(new ApachePoiTextRead("/Users/euiyoung.hwang/DOC/clustering.pdf").CommonTextMain());
 			} catch (Exception e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
